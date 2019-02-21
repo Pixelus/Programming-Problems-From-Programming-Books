@@ -1,4 +1,4 @@
-# ThinkLikeAProgrammer
+# Think Like A Programmer problems
 
 Exercices from Think Like A Programmer's book in C language.
 
