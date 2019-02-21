@@ -1,6 +1,6 @@
 # Programming problems from programming books
 
-### Think Like A Programmer problems
+### Think Like A Programmer
 
 Exercices from Think Like A Programmer book in C language.
 
@@ -9,7 +9,7 @@ Exercices from Think Like A Programmer book in C language.
 * Draw a square
 * Draw a sideways triangle
 
-### Automate The Boring Stuff With Python problems
+### Automate The Boring Stuff With Python
 
 Exercices from Automate The Boring Stuff With Python book in Python language.
 
