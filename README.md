@@ -2,7 +2,7 @@
 
 ### Think Like A Programmer problems
 
-Exercices from Think Like A Programmer's book in C language.
+Exercices from Think Like A Programmer book in C language.
 
 * Draw a line
 * Draw a half square
