@@ -21,3 +21,7 @@ Exercices from Automate The Boring Stuff With Python book in Python language.
 * Input validation
 * Fantasy game inventory
 * Add comma
+
+### Python crash Course
+
+* Chapter 1 to chapter 8
