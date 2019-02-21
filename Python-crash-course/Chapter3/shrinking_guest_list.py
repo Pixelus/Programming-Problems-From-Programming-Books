@@ -36,3 +36,19 @@ print("Hey " + guests[3] + ", you are waiting for my birthday.")
 print("Hey " + guests[4] + ", you are waiting for my birthday.")
 print("Hey " + guests[5] + ", you are waiting for my birthday.")
 print("Hey " + guests[6] + ", you are waiting for my birthday.\n")
+
+
+# Only two places finally
+print(guests)
+print("I'm so sorry but only two guests will come to my home because I've lost the bigger table")
+guests.pop(0)
+guests.pop(1)
+guests.pop(1)
+guests.pop(2)
+guests.pop(0)
+print(guests)
+print("Hey " + guests[0] + ", you are waiting for my birthday.")
+print("Hey " + guests[1] + ", you are waiting for my birthday.")
+del guests[0]
+del guests[0]
+print(guests)
