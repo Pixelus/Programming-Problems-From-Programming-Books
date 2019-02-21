@@ -1,26 +1,18 @@
-from cs50 import get_string, get_int
+def make_album(artist_name, album_title, tracks_number = ''):
+    music_album = {'artist': artist_name, 'album': album_title}
+    if tracks_number:
+        music_album['tracks'] = tracks_number
+    print(music_album)
 
+make_album("Jimi Hendrix", "Gandja")
+make_album("Dido", "I know")
+make_album("Blur", "Stop me")
+make_album("Johnny Hallyday", "Sur la route", 13)
 
-def main():
-    # Prompt and validate user input
-    while True:
-        height = get_int("Height: ")
-        if (height > 0 and height <= 8):
-            break
-
-    # Draw the half pyramid
-    for line in range(height):
-        space = height - line
-        while (space > 1):
-            print(" ", end="")
-            space -= 1
-        for hash in range(line + 1):
-            print("#", end="")
-        print("  ", end="")
-        for hash in range(line + 1):
-            print("#", end="")
-        print()
-
-
-if __name__ == "__main__":
-    main()
+while True:
+    artist = input("Enter an album'artist: ")
+    album = input("Enter the title of this album: ")
+    make_album(artist, album)
+    quit_or_not = input("Enter 'q' for quit or 'c' for continue.")
+    if quit_or_not == 'q':
+        break
