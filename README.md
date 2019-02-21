@@ -13,6 +13,11 @@ Exercices from Think Like A Programmer book in C language.
 
 Exercices from Automate The Boring Stuff With Python book in Python language.
 
-* Adds Wikipedia bullets
+* Add Wikipedia bullets
 * Draw a character picture grid
 * Solve the Collatz sequence
+* Insecure password locker program
+* Print a table printer
+* Input validation
+* Fantasy game inventory
+* Add comma
