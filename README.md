@@ -35,3 +35,5 @@ Exercices from Automate The Boring Stuff With Python book in Python language.
 * Largest integers
 * Pyramid
 * Reverse digit
+* Big Fibonacci sequence
+* Sentinel
