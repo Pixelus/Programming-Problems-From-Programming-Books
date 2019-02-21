@@ -11,7 +11,7 @@ Exercices from Think Like A Programmer's book in C language.
 
 ### Automate The Boring Stuff With Python problems
 
-Exercices from Automate The Boring Stuff With Python's book in Python language.
+Exercices from Automate The Boring Stuff With Python book's in Python language.
 
 * Adds Wikipedia bullets
 * Draw a character picture grid
