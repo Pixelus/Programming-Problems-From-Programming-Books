@@ -25,3 +25,13 @@ Exercices from Automate The Boring Stuff With Python book in Python language.
 ### Python crash Course
 
 * Chapter 1 to chapter 8
+
+### The Art adn Science of Java
+
+* Fibonacci sequence
+* Checker board
+* Countdown
+* Digital root
+* Largest integers
+* Pyramid
+* Reverse digit
