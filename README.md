@@ -26,7 +26,7 @@ Exercices from Automate The Boring Stuff With Python book in Python language.
 
 * Chapter 1 to chapter 8
 
-### The Art adn Science of Java
+### The Art and Science of Java
 
 * Fibonacci sequence
 * Checker board
