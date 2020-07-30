@@ -37,3 +37,8 @@ Exercices from Automate The Boring Stuff With Python book in Python language.
 * Reverse digit
 * Big Fibonacci sequence
 * Sentinel
+
+### The Well-Grounded Rubyist
+
+* Temperatures conversion
+* Ticket
