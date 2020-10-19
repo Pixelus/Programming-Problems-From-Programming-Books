@@ -42,3 +42,13 @@ Exercices from Automate The Boring Stuff With Python book in Python language.
 
 * Temperatures conversion
 * Ticket
+
+### Think Java - How to Think Like a Computer Scientist
+
+* Celsius to Fahrenheit
+* Date
+* Guess Starter
+* Multiple additions
+* Time
+* Time Converter
+
