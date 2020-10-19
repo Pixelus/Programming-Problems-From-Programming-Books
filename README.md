@@ -22,7 +22,7 @@ Exercices from Automate The Boring Stuff With Python book in Python language.
 * Fantasy game inventory
 * Add comma
 
-### Python crash Course
+### Python Crash Course
 
 * Chapter 1 to chapter 8
 
